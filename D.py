@@ -6,10 +6,10 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from data import main
+    from Not import main
     main()
 elif bit == '32bit':
-    from data32 import main
+    from Not import main
     main()
 else:
     print('\n YOUR DEVICE IS NOT SUPPORT THIS COMMAND')
