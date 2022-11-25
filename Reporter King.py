@@ -4,11 +4,11 @@
 # Update V1.6
 _auth01_ = 'Dapunta AR'
 
-# Author : Dapunta Adyapaksi R.
-# Facebook (Dapunta Khurayra X)   : Facebook.com/Dapunta.Khurayra.X
+# Author : Abdullah Adyapaksi R.
+# Facebook (Abdullah Khurayra X)   : Facebook.com/Dapunta.Khurayra.X
 # Instagram (☬ 𝐀𝐧𝐨𝐧𝐲𝐦 𝟒𝟎𝟒 ☬)    : Instagram.com/ratya.anonym.id
-# Whatsapp (Dapunta Bot_Key)      : +6282245780524
-# YouTube (Xayonara.ID)           : Youtube.com/channel/UCZqnZlJ0jfoWSnXrNEj5JHA
+# Whatsapp (Dapunta Bot_Bot)      : +6282245780524
+# YouTube (bhatti.ID)           : Youtube.com/channel/UCZqnZlJ0jfoWSnXrNEj5JHA
 
 # Recode SC Orang Itu Gak Keren Bro
 # Lu Gaakan Bisa Berkembang Kalau Skillu Cuma Recode
